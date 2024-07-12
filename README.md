@@ -9,3 +9,7 @@ Download this repository, then extract the `ScootsCombatAttuneWatch` subdirector
 ## Screenshots ##
 
 ![Screenshot of chat entry](./img/chat.png)
+
+## Known issues ##
+
+Weapon swapping from an un-attuned weapon to an attuned weapon during combat will show the newly equipped item as attuned when combat ends.
