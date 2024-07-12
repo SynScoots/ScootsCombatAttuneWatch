@@ -1,0 +1,7 @@
+## Interface: 30305
+## X-Compatible-With: 30305
+## Title: ScootsCombatAttuneWatch
+## Notes: Alerts you when combat ends if an item attuned during combat
+## Author: Scoots
+
+ScootsCombatAttuneWatch.lua
