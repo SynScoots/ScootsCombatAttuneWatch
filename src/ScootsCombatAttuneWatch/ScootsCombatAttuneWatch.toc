@@ -1,4 +1,4 @@
-## Interface: 30305
+## Interface: 30300
 ## X-Compatible-With: 30305
 ## Title: ScootsCombatAttuneWatch
 ## Notes: Alerts you when combat ends if an item attuned during combat
